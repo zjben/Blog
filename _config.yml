@@ -1,20 +1,12 @@
-# General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: http://localhost:4000
-
-markdown: redcarpet
-highlighter: pygments
-
-paginate: 5
-permalink: /:title
-
-# Social share and comments.
-disqus-id: yourusername
-twitter: yourusername
-github: yourusername
-google: +yourusername
-
-# RSS feed
-rss-feed-limit: 10
-rss-show-full: "no"
+title:        Hyde
+tagline:      'Hyde, a Jekyll theme'
+description:  'An elegant open source and mobile first theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:          http://andhyde.com
+version:      1.1.1
+author:
+  name:       ''
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
