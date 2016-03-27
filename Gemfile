@@ -1,9 +1,6 @@
-source 'https://rubygems.org'
-gem 'thor'
-gem 'stringex'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'jekyll-watch'
-gem 'jekyll-archives'
-gem 'jekyll'
-gem 'json'
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.0"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "octopress"
